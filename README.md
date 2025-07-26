@@ -1,1 +1,1 @@
-# angular
+# Gestióndeinventario.py
